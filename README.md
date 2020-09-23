@@ -6,7 +6,7 @@ Author: Dr. Ryan Ahmed
 
 This script runs using Python 3.
 
-# Overview
+## Overview
 
 Challenge from Kaggle with Breast Cancer Wisconsin (Diagnostic) Data Set.
 
@@ -14,13 +14,13 @@ Challenge from Kaggle with Breast Cancer Wisconsin (Diagnostic) Data Set.
 Predict whether the cancer is bengign or malignant
 ```
 
-# Dataset
+## Dataset
 
 ```php
 Breast Cancer Wisconsin (Diagnostic) Dataset
 ```
 
-# Data Pre-Processing
+## Data Pre-Processing
 
 - Import Cancer data from the Sklearn library
 - Visualize the data
@@ -28,18 +28,18 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 
 ![variables](https://github.com/quinlele/Breast-Cancer-Classification/blob/master/variables.png)
 
-# Train model
+## Train model
 
 - Split train and test set by sklearn.
 
-# Improve model
+## Improve model
 
 - Tuned hyper-parameters by GridSearchCV
 
-# Accuracy: 96%
+## Accuracy: 96%
 
 ![accuracy](https://github.com/quinlele/Breast-Cancer-Classification/blob/master/accuracy%20report.png)
 
-# Reference:
+## Reference:
 
 Dataset from Kaggle: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
