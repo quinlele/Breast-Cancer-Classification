@@ -24,7 +24,7 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 
 - Import Cancer data from the Sklearn library
 - Visualize the data
-- Check the correlation among the variables Variables
+- Check the correlation among the variables
 
 # Train model
 
