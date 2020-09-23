@@ -26,6 +26,8 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 - Visualize the data
 - Check the correlation among the variables
 
+![variables](https://github.com/quinlele/Breast-Cancer-Classification/blob/master/variables.png)
+
 # Train model
 
 - Split train and test set by sklearn.
@@ -34,7 +36,9 @@ Breast Cancer Wisconsin (Diagnostic) Dataset
 
 - Tuned hyper-parameters by GridSearchCV
 
-# Accuracy: 97%
+# Accuracy: 96%
+
+![accuracy](https://github.com/quinlele/Breast-Cancer-Classification/blob/master/accuracy%20report.png)
 
 # Reference:
 
